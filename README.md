@@ -1,2 +1,2 @@
 # hello-world
-first respository
+Hi to the coders out there
